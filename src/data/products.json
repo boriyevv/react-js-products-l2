@@ -1,0 +1,41 @@
+[
+
+   {
+      "id":"1",
+      "name":"Iphone 15 Pro Max",
+      "price":1199,
+      "company":"Apple"
+   },
+
+   {
+      "id":"2",
+      "name":"Samsung Galaxy S24 Ultra",
+      "price":1099,
+      "company":"Samsung"
+   },
+   {
+      "id":"3",
+      "name":"Mi 13 Ultra",
+      "price":799,
+      "company":"Xiaomi"
+   },
+   {
+      "id":"4",
+      "name":"Oppo Reno 7",
+      "price":499,
+      "company":"Oppe"
+   },
+   {
+      "id":"5",
+      "name":"Google Pixel 9Pro XL",
+      "price":1399,
+      "company":"Google"
+   },
+   {
+      "id":"6",
+      "name":"Poce F6 Pro",
+      "price":499,
+      "company":"Xiaomi"
+   }
+
+]
